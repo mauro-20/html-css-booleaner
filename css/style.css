@@ -65,3 +65,24 @@ th{
 .bkgrd-blue{
   background-color: #B1E5F2;
 }
+
+.footer-img{
+  color: #FFFFFF;
+  height: 200px;
+  width: 200px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 10px 0;
+}
+
+#footer-img1{
+  background-image: url(../img/monitor.jpg);
+}
+
+#footer-img2{
+  background-image: url(../img/graph.jpg);
+}
+
+.footer-img-title{
+  padding: 10px;
+}
