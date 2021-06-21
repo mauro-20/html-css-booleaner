@@ -1,5 +1,5 @@
 #container{
-  width: 80%;
+  width: 800px;
   margin: auto;
 }
 
@@ -12,4 +12,21 @@
 #logo{
   height: 40%;
   margin-top: 100px;
+}
+
+h1 {
+  font-size: 40px;
+  margin-bottom: 5px;
+}
+
+.color-blue{
+  color: #20A9E5;
+}
+
+.color-gray{
+  color: gray;
+}
+
+.small-size{
+  font-size: 10px;
 }
