@@ -34,3 +34,7 @@ h1 {
 .images{
   margin: 15px 0;
 }
+
+.highlight-yellow{
+  background-color: yellow;
+}
