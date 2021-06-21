@@ -10,8 +10,6 @@
 }
 
 #logo{
-  height: 50%;
-  background-image: url(../img/logo.svg);
-  background-repeat: no-repeat;
+  height: 40%;
   margin-top: 100px;
 }
