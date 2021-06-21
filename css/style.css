@@ -38,3 +38,30 @@ h1 {
 .highlight-yellow{
   background-color: yellow;
 }
+
+.list{
+  padding-left: 15px;
+}
+
+table{
+  border-collapse: collapse
+}
+
+th{
+  background-color: #20A9E5;
+  color: #FFFFFF;
+}
+
+.td-narrow{
+  width: 20%;
+  text-align: left;
+}
+
+.td-wide{
+  width: 50%;
+  text-align: left;
+}
+
+.bkgrd-blue{
+  background-color: #B1E5F2;
+}
